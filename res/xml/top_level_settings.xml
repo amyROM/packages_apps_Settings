@@ -134,6 +134,14 @@
         android:fragment="com.android.settings.system.SystemDashboardFragment"/>
 
     <Preference
+        android:key="top_level_amyrom"
+        android:title="@string/amyrom_settings"
+        android:summary="@string/amyrom_settings_summary"
+        android:icon="@drawable/ic_homepage_system_dashboard"
+        android:order="15"
+        android:fragment="com.android.settings.amyrom.AmyROMSettings"/>
+
+    <Preference
         android:key="top_level_about_device"
         android:title="@string/about_settings"
         android:summary="@string/summary_placeholder"
