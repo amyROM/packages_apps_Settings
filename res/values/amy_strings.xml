@@ -6,8 +6,4 @@
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">Navbar tuner</string>
     <string name="navbar_tuner_summary">Customize navbar tuner</string>
-
-    <string name="amyrom_settings">amyROM Settings</string>
-    <string name="amyrom_settings_summary">Turn the cogs!</string>
-
 </resources>
