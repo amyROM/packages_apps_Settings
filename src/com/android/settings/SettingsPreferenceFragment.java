@@ -1,4 +1,3 @@
-
 /*
  * Copyright (C) 2010 The Android Open Source Project
  *
@@ -290,14 +289,6 @@ public abstract class SettingsPreferenceFragment extends InstrumentedPreferenceF
      */
     protected boolean shouldSkipForInitialSUW() {
         return false;
-    }
-
-    /*
-     * Returns false when preference has not been expanded
-     */
-    public boolean isPreferenceExpanded(Preference preference) {
-        return ((mAdapter == null)
-                || (mAdapter.getPreferenceAdapterPosition(preference) != RecyclerView.NO_POSITION));
     }
 
     protected void onDataSetChanged() {
