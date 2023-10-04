@@ -30,4 +30,9 @@
         <item quantity="one">1 app locked</item>
         <item quantity="other">%d apps locked</item>
     </plurals>
+
+    <string name="applock_notification_info">You can show/hide the notification content on a per-app basis by clicking on the notification icon shown on each locked apps\' preference</string>
+    <string name="keywords_applock_settings">applock, applocker, app lock, app locker</string>
+    <string name="applock_show_notif">Showing notification content</string>
+    <string name="applock_hide_notif">Hiding notification content</string>
 </resources>
