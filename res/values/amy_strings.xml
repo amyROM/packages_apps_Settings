@@ -3,10 +3,6 @@
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
     <string name="custom_firmware_version">amyROM version</string>
 
-    <!-- Navbar tuner -->
-    <string name="navbar_tuner_title">Navbar tuner</string>
-    <string name="navbar_tuner_summary">Customize navbar tuner</string>
-
     <!-- Quick unlock -->
    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
