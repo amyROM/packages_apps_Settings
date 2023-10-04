@@ -24,7 +24,7 @@ import com.android.settings.core.BasePreferenceController;
 
 public class CustomFirmwareVersionPreferenceController extends BasePreferenceController {
 
-    private static final String VERSION_PROPERTY = "ro.build.version.custom";
+    private static final String VERSION_PROPERTY = "ro.amyrom.version";
 
     public CustomFirmwareVersionPreferenceController(Context context, String preferenceKey) {
         super(context, preferenceKey);
